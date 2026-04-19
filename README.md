@@ -13,7 +13,6 @@
 > Nesne yönelimli programlama ve modern yazılım mimarileri üzerine çalışıyorum.
 > Karmaşık problemleri **Java** teknolojileri ile çözmeye odaklıyım.
 
-- Elazığ, Türkiye'de yaşıyorum
 - Kişisel sitem: [muhammedcengiz.com](https://muhammedcengiz.com)
 - Şu an **Java backend** ve **TypeScript** projeleri geliştiriyorum
 - Her zaman öğrenmeye ve gelişmeye açığım
