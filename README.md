@@ -61,7 +61,7 @@
 | Proje | Açıklama | Teknoloji | Link |
 |-------|----------|-----------|------|
 | **AlgoBist** | Borsa analiz platformu — hisse senedi verilerini takip et ve analiz et | TypeScript · Next.js | [borsa-analiz.vercel.app](https://borsa-analiz.vercel.app) |
-| **Kişisel Site** | Kişisel portföy ve site | TypeScript · Next.js | [kisisel-site-ecru.vercel.app](https://kisisel-site-ecru.vercel.app) |
+| **Kişisel Site** | Kişisel portföy ve site | TypeScript · Next.js | [muhammedcengiz.com](https://muhammedcengiz.com) |
 | **Duyuru Botu** | Duyuru botu uygulaması | Python | [mhmdcngz/Duyuru-Botu](https://github.com/mhmdcngz/Duyuru-Botu) |
 
 </div>
